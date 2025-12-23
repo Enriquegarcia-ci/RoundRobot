@@ -20,6 +20,5 @@ An autonomous robot built using a Raspberry Pi and ultrasonic sensors that can d
 ## How It Works
 The robot continuously measures distance in front of it. When an object is detected within 20cm, it stops and changes direction. Sensor data is streamed to a local PC for monitoring.
 
-
 ## Hi
 this is a work in progress and most things will be missing.
